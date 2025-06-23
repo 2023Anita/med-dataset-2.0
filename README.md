@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./public//imgs/bg2.png)
+![]
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ConardLi/med-dataset">
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/ConardLi/med-dataset/total">
